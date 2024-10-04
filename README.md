@@ -1,4 +1,4 @@
-# lara_custom_query_builder
+# Lara custom query builder
 
 In Laravel, it's common for models to contain too much business logic. Fortunately, you can create custom Query Builders to make models slimmer and cleaner. In this article, we'll explore how to create and use custom Query Builders using the example of a Product model.
 
